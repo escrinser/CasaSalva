@@ -1,0 +1,5 @@
+modules_api_verions_not_compatibled = "La versión de API de módulos del sitio no es compatible con la versión de API del módulo del sitio publicado. Se recomienda volver a publicar su sitio."
+no_modules_api_version_published_site = "No hay versión del API de los módulos en el sitio publicado."
+no_password_on_published_site = "No hay contraseña en el sitio publicado."
+no_published_site_access = "El sitio publicado XCOPY no está accesible en estos momentos."
+password_not_confirmed = "La contraseña de sitio no coincide con la contraseña del sitio publicada."

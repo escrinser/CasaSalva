@@ -1,0 +1,3 @@
+create_error = "No se puede crear un mensaje en el modo de previsualización."
+delete_error = "Un mensaje no puede ser borrado en el modo de previsualización."
+update_error = "Un mensaje no se puede actualizar en el modo de previsualización."

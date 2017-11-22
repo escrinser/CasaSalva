@@ -1,0 +1,99 @@
+/* content */
+.text-header {
+	font-weight: bold;
+	font-size: 12pt;
+	font-family: "Arial Narrow", Arial, sans-serif;
+	color: #000000;
+}
+.pageContent { font-size: 8pt; font-family: Tahoma, sans-serif; color: #7C7C7C; }
+.pageContent a { font-size: 8pt; font-family: Tahoma, sans-serif; color: #8D8D8D; }
+
+/* top elements */
+.company {
+	font-weight: bold;
+	font-size: 14pt;
+	font-family: "Arial Narrow", Arial, sans-serif;
+	color: #FFFFFF;
+	font-style: normal;
+	text-transform: capitalize;
+}
+.slogan {
+	font-weight: bold;
+	font-size: 8pt;
+	font-family: "Arial Narrow", Arial, sans-serif;
+	color: #FFFFFF;
+	font-style: normal;
+	text-transform: uppercase;
+}
+
+/*main menu*/
+.menu {
+	font-size: 12pt;
+	font-family: Tahoma, sans-serif;
+	color: #DFDFDF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.amenu {
+	font-size: 12pt;
+	font-family: Tahoma, sans-serif;
+	color: #9CE300;
+	font-weight: bold;
+}
+
+/*submenu*/
+.submenu {
+	font-size: 8pt;
+	font-family: Tahoma, sans-serif;
+	color: #4B4B4B;
+	text-decoration: none;
+	font-weight: bold;
+}
+.asubmenu {
+	font-size: 8pt;
+	font-family: Tahoma, sans-serif;
+	color: #4B4B4B;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+/*bottom menu*/
+.bmenu {
+	font-size: 12pt;
+	font-family: Tahoma, sans-serif;
+	color: #4B4B4B;
+	text-decoration: none;
+	font-weight: bold;
+}
+.abmenu {
+	font-size: 12pt;
+	font-family: Tahoma, sans-serif;
+	color: #4B4B4B;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+/*copyright*/
+.footer { font-size: 8pt; font-family: Tahoma, sans-serif; color: #3F3F3F; }
+
+/*backgrounds*/
+.main-bg { background-color: #E1E1E1; }
+.submenu-bg { background-color: #4E8BC1; }
+.menu-hr { background-color: #6BA4CF; }
+.line { background-color: #CACACA; }
+
+#languages {
+position: absolute;
+right: 10px;
+top: 5px;
+}
+
+#languages img {
+margin: 3px;
+border: 0px;
+}
+
+/*hover image over text*/
+.hover_image {position:relative;}
+.hover_image span{position:absolute; display:none; z-index:99;}
+.hover_image:hover span{display:block;}

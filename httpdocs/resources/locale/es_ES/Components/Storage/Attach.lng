@@ -1,0 +1,5 @@
+cannot_open_file = "No se puede abrir el archivo."
+content_empty = "El archivo guardado está vacío."
+delete_file = "No se puede eliminar el archivo."
+dirname_attach_not_exists = "No hay archivos adjuntos al directorio."
+free_space_disk = "No se puede guardar el archivo. Probablemente no haya espacio libre en el disco."

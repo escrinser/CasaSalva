@@ -1,0 +1,16 @@
+# robots.txt generated at http://www.mcanerin.com
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /anon_ftp/
+Disallow: /bin/
+Disallow: /error_docs/
+Disallow: /pd/
+Disallow: /private/
+Disallow: /root/
+Disallow: /statistics/
+Disallow: /subdomains/
+Disallow: /web_users/
+
+Sitemap: http://www.casasalva.es/sitemap.xml
+

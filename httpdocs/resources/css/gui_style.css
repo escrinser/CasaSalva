@@ -1,0 +1,259 @@
+*.module_content_block_table{
+    border-left-width:   1px;
+    border-right-width:   1px;
+    border-bottom-width:   1px;
+    border-top-width:   1px;
+    border-style:    solid;
+    border-color:   Black;
+    width: 100%;
+}
+  
+*.module_content_block {
+}
+
+*.module_form_table {
+    padding-top:	5px;
+    padding-bottom:	5px;
+    padding-left:	5px;
+    padding-right:	5px;
+    background-color: #D4EBFB;
+}
+
+*.module_form_buttons {
+    padding-top:	5px;
+}
+
+*.form_input {
+    font-family :  Verdana;  
+    font-size :    11px;
+    width:         100%;
+    color:         #000066 ;
+    border-width:  1px ;
+    border-color:  #1793e9 ;
+    border-style:  solid ;
+}
+
+*.form_button{
+    background :   #1793e9;
+    border-width : 1px;
+    border-style:  solid;
+    border-color : Black;
+    height:        20px;
+    font-size :    10px;
+    cursor:        pointer;
+    color: white;
+}
+
+ *.form_input_title{
+    color:        #000000 ;
+    font-size :   11px ;
+    font-family : Verdana ;
+    font-style :  normal ;
+}
+
+ *.form_input_title_highlight{
+    color:        #FF0000 ;
+    font-size :   11px ;
+    font-family : Verdana ;
+    font-style :  normal ;
+}
+
+a.link_button{
+    text-decoration: underline;
+    color:           #1793e9;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+a.link_button:visited{
+    text-decoration: underline;
+    color:           #1793e9;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+a.link_button:hover{
+    text-decoration: underline;
+    color:           #1793e9;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+a.link{
+    text-decoration: underline;
+    color:           #1793e9;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+a.link:visited{
+    text-decoration: underline;
+    color:           #1793e9;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+a.link:hover{
+    text-decoration: underline;
+    color:           #1793e9;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+*.text{
+    color:       Black;
+    font-size :  10px;
+    font-family :Verdana;
+    font-style : normal;
+}
+
+a.page_navigator{
+    text-decoration: underline;
+    color:           black;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+a.page_navigator:visited{
+    text-decoration: underline;
+    color:           black;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+a.page_navigator:hover{
+    text-decoration: underline;
+    color:           black;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+*.page_navigator_current_page{
+    text-decoration: none;
+    color:           red;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    bold;
+}
+
+*.page_navigator_disabled_page{
+    text-decoration: none;
+    color:           black;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    bold;
+}
+
+*.page_navigator_background{
+    background :         #1793e9;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color :Black;
+	height:20px;
+}
+
+*.simple_list_table {
+}
+
+*.simple_list_delimeter {
+    height:   1px;
+    background:   #000000;
+}
+
+*.simple_list_item {
+    padding-top:	5px;
+    padding-bottom:	5px;
+    padding-left:	5px;
+    padding-right:	5px;
+    background: #FEEAEB;
+}
+
+*.simple_list_item_highlighted {
+    padding-top:	5px;
+    padding-bottom:	5px;
+    padding-left:	5px;
+    padding-right:	5px;
+    background: #EAFEEB;
+}
+
+*.simple_list_paging {
+    padding-top:	5px;
+    padding-bottom:	5px;
+    padding-left:	5px;
+    padding-right:	5px;
+    background: #DDDDFF;
+}
+
+*.message_comment {
+}
+
+*.message_action {
+	padding-right: 	5px;
+}
+
+*.message_date_time{
+    font-size:   10px;
+    font-style:  italic;
+    color:       #93A5B3;
+    font-family: Verdana;
+    font-weight :normal;
+}
+
+  a.message_autor_url{
+    text-decoration: none;
+    color:           Black;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+a.message_autor_url:visited{
+    text-decoration: none;
+    color:           Black;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+a.message_autor_url:hover{
+    text-decoration: none;
+    color:           Black;
+    font-size :      10px;
+    font-family :    Verdana;
+    font-weight :    normal;
+}
+
+*.message_autor_name{
+    color:        Black;
+    font-style :  normal;
+    font-weight : normal;
+	font-family:	Tahoma,Arial;
+	font-size:	8pt;
+}
+
+.report_good
+{
+	background-color: #F7F7F7; 
+	border: 1px; 
+	border-color: #0000CC; 
+	border-style: solid;
+	color: #0000CC;
+}
+
+.report_error
+{
+	background-color: #F7F7F7; 
+	border: 1px; 
+	border-color: #C80000;
+	border-style: solid;
+	color: #C80000;
+}

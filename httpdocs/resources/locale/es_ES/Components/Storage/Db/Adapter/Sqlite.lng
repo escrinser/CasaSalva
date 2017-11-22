@@ -1,0 +1,5 @@
+connect_database_host_fail = "No se puede conectar con la base de datos del host."
+database_unknown = "No se puede seleccionar una base de datos. La base de datos es desconocida."
+execute_query_fail = "No se puede ejecutar una petición a la base de datos SQLite."
+extension_fail = "No se ha encontrado la extensión SQLite."
+maxRowSizeLimitRiched = "No se pueden guardar los datos. El segmento de datos es demasiado pesado."

@@ -1,0 +1,3 @@
+moduleUpgraded = "El %s módulo ha sido actualizado. No funciona correctamente. Intente republicar su sitio."
+newerSbRequired = "El módulo %s ha sido actualizado. Este módulo requiere disponer de una versión más nueva de Plesk Sitebuilder. Contacte con el administrador."
+republicationRequired = "El %s módulo ha sido actualizado. Este módulo no puede trabajar con las versiones anteriores del sitio. Republique su sitio para poderlo actualizar."
